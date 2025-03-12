@@ -1,2 +1,4 @@
-> [!NOTE]
-> Creado por: Nelson Guerrero, Luis Leòn
+## Desarrollado por:
+### Nelson Guerrero.
+### Luis León.
+### Juan Diego Cordero.
